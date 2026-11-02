@@ -11,6 +11,10 @@ A list of resources for the [Polyend Tracker](https://polyend.com/tracker/).
 
 - [Tracker Theme Editor](https://polyend.github.io/tracker-theme-editor/) - Browser editor with a live preview of the Tracker screen. Also converts TTF and OTF fonts to `.ptfont` ([source](https://github.com/polyend/tracker-theme-editor)).
 
+## Hardware
+
+- [KB1](https://github.com/PocketMidi/KB1) - Open-source 19-key MIDI keyboard controller with built-in speakers for the Tracker Mini, configured from a browser over Bluetooth.
+
 ## Themes
 
 - [polyend-tracker-gruvbox](https://github.com/brachkow/polyend-tracker-gruvbox) - Six Gruvbox themes, dark and light in hard, medium and soft contrast.
