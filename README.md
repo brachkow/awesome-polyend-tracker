@@ -4,7 +4,11 @@ A list of resources for the [Polyend Tracker](https://polyend.com/tracker/).
 
 ## Firmware and libraries
 
+- [o3-303](https://github.com/trak3r-os/o3-303) - Firmware for the original Polyend Tracker that turns it into a monophonic 303-style acid bass machine with a step sequencer played on the 48 pads.
+- [opentracker-synths](https://github.com/opentracker-fw/opentracker-synths) - Fourteen synth engine modules for OpenTracker 3 firmware on the original Polyend Tracker, including acid, FM and drums.
+- [track3r-os](https://github.com/trak3r-os/track3r-os) - Operating system for the original Polyend Tracker, written from scratch, that opens projects saved by the stock firmware, imports MOD, S3M and MED songs, and loads modules from the SD card.
 - [tracker-ce](https://github.com/polyend/tracker-ce) - Community edition of the Polyend Tracker firmware.
+- [tracker-ff](https://github.com/sbialy/tracker-ff) - Fork of tracker-ce that adds 16 synth engines with up to four voices of polyphony to the original Polyend Tracker.
 - [tracker-lib](https://github.com/polyend/tracker-lib) - A library for reading and writing Polyend Tracker compatible project files.
 
 ## Tools
